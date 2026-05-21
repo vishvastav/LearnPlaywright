@@ -4,7 +4,7 @@ const c = 3.14;
 
 var browser = "chrome";
 var browser = "firefox"; // redeclaration allowed
-browser = "edge"; // reassignment allowed
+browser = "edge";         // reassignment allowed
 
 // for, functions
 
@@ -20,7 +20,7 @@ console.log("Loop counter leaked outside:", i);
 
 console.log("Hi");
 console.log("Hi");
-console.log("Hi");
+console.log("Hi");=
 
 function say() {
     console.log("Hi from Function");
