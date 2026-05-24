@@ -31,4 +31,4 @@ if (statusCode >= 200 && statusCode <= 299) {
 } else {
     console.log(`Input:${statusCode}`);
     console.log('Output:Invalid');
-};
+}
