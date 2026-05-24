@@ -20,7 +20,7 @@ console.log("Loop counter leaked outside:", i);
 
 console.log("Hi");
 console.log("Hi");
-console.log("Hi");=
+console.log("Hi");
 
 function say() {
     console.log("Hi from Function");
