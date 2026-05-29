@@ -1,0 +1,8 @@
+//define step-1
+
+function greet() {
+    console.log("Hi,How are you today.")
+}
+
+//calling step 2
+greet();
